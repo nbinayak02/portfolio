@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Binayak Niraula",
+  title: "Portfolio | Binayak Niraula",
   description: "nbinayak02 | portfolio website | binayak niraula",
 };
 
